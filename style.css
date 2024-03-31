@@ -1,0 +1,52 @@
+.zvezda {
+    display: flex;
+    justify-content: center;
+    margin: 2ch;
+}
+
+.black_panel {
+    background-color: #000000;
+    height: 71px;
+}
+
+.name {
+    color: white;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-65px);
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+}
+
+.photo1 {
+    width: 110px;
+    height: 70px;
+    transform: translateY(75px);
+}
+
+.red_panel {
+    background-color: red;
+    color: red;
+    height: 71px;
+}
+
+.ao {
+    color: white;
+    transform: translateY(-64px);
+    display: flex;
+    justify-content: center;
+}
+
+.devis {
+    display: flex;
+    justify-content: center;
+    font-size: 260%;
+}
+
+.photo2 {
+    display: flex;
+    justify-content: center;
+}
